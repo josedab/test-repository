@@ -1,3 +1,3 @@
 # test-repository
-Just a test repository to experiment with internal development.
-Testing some exciting work at GitHub :tada:
+Just a test repository to experiment with some internal work at GitHub :octocat:
+- Testing push hook job system 🎉
