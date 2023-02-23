@@ -11,3 +11,4 @@ Just a test repository to experiment with some internal work at GitHub :octocat:
 
 ## Second feature
 - Testing now that stats make it to the data warehouse
+  - Will they?
