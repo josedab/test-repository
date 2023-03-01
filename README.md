@@ -14,3 +14,6 @@ Just a test repository to experiment with some internal work at GitHub :octocat:
   - Will they? Not seeing anything yet :(
   - Maybe wait for some more minutes to make sure??
   - I was querying the wrong time window!! It works! 🎉
+
+## Third feature
+- Let's try to add some overall generic logging for our message system
