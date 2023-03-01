@@ -17,3 +17,4 @@ Just a test repository to experiment with some internal work at GitHub :octocat:
 
 ## Third feature
 - Let's try to add some overall generic logging for our message system
+  - Making another commit, will this be available in the log index? How long will it take?
