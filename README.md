@@ -22,3 +22,4 @@ Just a test repository to experiment with some internal work at GitHub :octocat:
   - wow! 15s e2e latency, did i get lucky with the flush period?! Let's try again
   - And another try, making sure we don't have any errors...
   - Mmmm, no errors, but this last commit did not show up. Network partition?
+  - Starring repository, will I see the job going through?
