@@ -24,3 +24,6 @@ Just a test repository to experiment with some internal work at GitHub :octocat:
   - Mmmm, no errors, but this last commit did not show up. Network partition?
   - Starring repository, will I see the job going through?
   - This is in production!
+
+## Fourth feature
+- While logging worked, it is too much for production. Let's make it configurable depending on environment
