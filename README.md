@@ -23,3 +23,4 @@ Just a test repository to experiment with some internal work at GitHub :octocat:
   - And another try, making sure we don't have any errors...
   - Mmmm, no errors, but this last commit did not show up. Network partition?
   - Starring repository, will I see the job going through?
+  - This is in production!
