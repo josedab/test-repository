@@ -19,3 +19,4 @@ Just a test repository to experiment with some internal work at GitHub :octocat:
 - Let's try to add some overall generic logging for our message system
   - Making another commit, will this be available in the log index? How long will it take?
   - It seems to be working 💪 Let's try one more time...
+  - wow! 15s e2e latency, did i get lucky with the flush period?! Let's try again
