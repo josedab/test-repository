@@ -27,3 +27,6 @@ Just a test repository to experiment with some internal work at GitHub :octocat:
 
 ## Fourth feature
 - While logging worked, it is too much for production. Let's make it configurable depending on environment
+
+## Fifth feature
+- Testing a new way of scheduling jobs...
