@@ -41,3 +41,4 @@ Just a test repository to experiment with some internal work at GitHub :octocat:
 
 ## Seventh feature
 - Testing new client integration, will jobs be generated?
+  - Yes, they did! 🎉
